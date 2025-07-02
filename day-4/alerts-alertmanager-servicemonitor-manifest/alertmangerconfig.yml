@@ -26,8 +26,8 @@ spec:
       from: YOUR_EMAIL_ID
       sendResolved: false
       smarthost: smtp.gmail.com:587
-      authUsername: YOUR_EMAIL_ID
-      authIdentity: YOUR_EMAIL_ID
+      authUsername: deepika9785@gmail.com
+      authIdentity: deepika9785@gmail.com
       authPassword:
         name: mail-pass
         key: gmail-pass
